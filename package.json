@@ -2,7 +2,7 @@
   "name": "live_classes",
   "version": "1.0.0",
   "description": "A platform for hosting live classes using WebRTC and Socket.io",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server"
   },
